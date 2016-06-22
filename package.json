@@ -1,0 +1,19 @@
+{
+  "name": "xmladder",
+  "version": "1.0.0",
+  "description": "Accumulate field of an XML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "xml",
+    "adder"
+  ],
+  "author": "Maxi Cespedes",
+  "license": "ISC",
+  "dependencies": {
+    "xml2js": "^0.4.16"
+  }
+}
